@@ -1,14 +1,14 @@
 # The Terra protocol
 
-The Terra protocol is the leading decentralized and open-source public blockchain protocol for [algorithmic stablecoins](/Concepts/glossary.md#algorithmic-stablecoin). Using a combination of open market [arbitrage](/Concepts/glossary.md#arbitrage) incentives and decentralized oracle voting, the Terra protocol creates stablecoins that consistently track the price of any fiat currency. Users can spend, save, trade, or exchange Terra stablecoins instantly, all on the Terra blockchain. Luna provides its holders with staking rewards and governance power. The Terra ecosystem is a quickly expanding network of decentralized applications, creating a stable demand for Terra and increasing the price of Luna.
+The Terra protocol is the leading decentralized and open-source public blockchain protocol for [algorithmic stablecoins](/Concepts/glossary.md#algorithmic-stablecoin). Using a combination of open market [arbitrage](/Concepts/glossary.md#arbitrage) incentives and decentralized oracle voting, the Terra protocol creates stablecoins that consistently track the price of any fiat currency. Users can spend, save, trade, or exchange Terra stablecoins instantly, all on the Terra blockchain. Luna provides its holders with staking rewards and governance power. The [Terra ecosystem](/Reference/ecosystem.md) is a quickly expanding network of decentralized applications, creating a stable demand for Terra and increasing the price of Luna.
 
 ## Terra and Luna
 
 The protocol consists of two main tokens, Terra and Luna.
 
-- **Terra**: Stablecoins that track the price of fiat currencies. Users mint new Terra by burning Luna. Stablecoins are named for their fiat counterparts. For example, the base Terra stablecoin tracks the price of the IMF’s SDR, named TerraSDR, or SDT. Other stablecoin denominations include TerraUSD or UST, and TerraKRW or  KRT. All Terra denominations exist in the same pool.
+- **Terra**: Stablecoins that track the price of [fiat currencies](/Concepts/glossary.md#fiat-currency). Users mint new Terra by burning Luna. Stablecoins are named for their fiat counterparts. For example, the base Terra stablecoin tracks the price of the IMF’s [SDR](/Concepts/glossary.md#sdr), named TerraSDR, or SDT. Other stablecoin denominations include TerraUSD or UST, and TerraKRW or  KRT. All Terra denominations exist in the same pool.
 
-- **Luna**: The Terra protocol’s native staking token that absorbs the price volatility of Terra. Luna is used for governance and in mining. Users stake Luna to validators who record and verify transactions on the blockchain in exchange for rewards from transaction fees. The more Terra is used, the more Luna is worth.
+- **Luna**: The Terra protocol’s native [staking](/Concepts/glossary.md#staking) token that absorbs the price volatility of Terra. Luna is used for governance and in mining. Users stake Luna to validators who record and verify transactions on the blockchain in exchange for rewards from transaction fees. The more Terra is used, the more Luna is worth.
 
 ## How the Terra protocol works
 
@@ -59,11 +59,11 @@ For more information on validators, visit the [Validator FAQ](/How-to/Manage-a-T
 
 ### Consensus
 
-The Terra blockchain is a proof-of-stake blockchain, powered by the [Cosmos SDK](https://cosmos.network/) and secured by a system of verification called the Tendermint consensus.
+The Terra blockchain is a [proof-of-stake](/Concepts/glossary.md#proof-of-stake) blockchain powered by the [Cosmos SDK](https://cosmos.network/) and secured by a system of verification called the Tendermint consensus.
 
 The following process explains how Tendermint consensus works. For more information on the Tendermint consensus, visit the [official Tendermint documentation](https://docs.tendermint.com/).
 
-1. A validator called a **proposer** is chosen to submit a new block of transactions.
+1. A validator called a **proposer** is chosen to submit a new [block](/Concepts/glossary.md#blocks) of transactions.
 2. Validators vote in two rounds on whether they accept or reject the proposed block. If a block is rejected, a new proposer is selected and the process starts again.
 3. If accepted, the block is signed and added to the chain.
 4. The transaction fees from the block are distributed as staking rewards to validators and delegators. Proposers get rewarded extra for their participation.
@@ -117,6 +117,8 @@ Redelegating instantly sends staked Luna from one validator to another. Instead 
 ::: warning Warning
 When a user redelegates staked Luna from one validator to another, the validator receiving the staked Luna is barred from making further redelegation transactions for 21 days. This requirement only applies to the wallet that made the redelegation transaction.
 :::
+
+To learn how to redelegate, visit [how to redelegate](/How-to/Terra-Station/Staking.md#redelegate).
 
 ### Rewards
 

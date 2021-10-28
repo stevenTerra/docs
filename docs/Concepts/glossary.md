@@ -145,11 +145,15 @@ Groups of tokens. Supply pools represent the total supply of tokens in a market.
 
 ## Proof of Stake
 
-Proof of Stake. A style of blockchain where validators are chosen to propose blocks according to the number of coins they hold.
+PoS. A style of blockchain where validators are chosen to propose blocks according to the number of coins they hold.
+
+## Proposer
+
+A validator in the active set chosen to propose a new [block](/Concepts/glossary.md#blocks) at the start of [consensus](/Concepts/glossary.md#concensus). Proposers are chosen proportionally to their [stake](/Concepts/glossary.md#stake) get rewarded extra for their work. Visit the [concensus section](/Concepts/protocol.md#consensus) of the concepts page for more information.
 
 ## Redelegate
 
-When a delegator wants to transfer their bonded luna to a different validator. Redelegating Luna is instant and does not require a 21-day unbonding period.
+When a [delegator](/Concepts/glossary.md#delegator) wants to transfer their bonded luna to a different validator. Redelegating Luna is instant and does not require a 21-day unbonding period. For more information, visit the [redelegation section](/Concepts/protocol.md#redelegation) of the concepts page. To learn how to redelegate, visit [how to redelegate](/How-to/Terra-Station/Staking.md#redelegate).
 
 ## Rewards
 
@@ -201,7 +205,7 @@ The Terra protocol's blockchain network where all transactions take place.
 
 ## Terra Station
 
-Terra's native wallet, swap, governance, and staking platform. In Station, you can send, receive, swap, and stake Terra coins. You can also participate in governance and read proposals.
+Terra's native wallet, swap, governance, and staking platform. In Station, you can send, receive, or swap between Terra stablecoins and Luna. Stake Luna in Terra Station to recieve rewards. You can also participate in governance and read proposals. To get started with Terra station, visit the [Terra Station Tutorial](/Tutorials/Get-started/Terra-Station-desktop.md).  To stake Luna, visit the [staking tutorial](/Tutorials/Get-started/Terra-Station-desktop.html#stake-luna).
 
 ## Terrad
 
@@ -213,15 +217,15 @@ A validator's public address beginning with `terravaloper` followed by a string 
 
 ## Testnet
 
-A version of the mainnet just for testing. The testnet does not use real coins. You can use the testnet to get familiar with transactions.
+A version of the mainnet just for testing. The testnet does not use real coins. You can use the testnet to get familiar with transactions. To learn how to use the testnet, visit the [testnet guide](/How-to/Terra-Station/Testnet.md).
 
 ## The Terra ecosystem
 
-A quickly expanding network of decentralized applications built on the Terra protocol.
+A quickly expanding network of decentralized applications built on the Terra protocol. To explore, visit the [ecosystem page](/Reference/ecosystem.md).
 
 ## The Terra protocol
 
-The leading decentralized and open-source public blockchain protocol for algorithmic stablecoins. Using a combination of open market arbitrage incentives and decentralized oracle voting, the Terra protocol creates stablecoins that consistently track the price of any fiat currency.
+The leading decentralized and open-source public blockchain protocol for algorithmic stablecoins. Using a combination of open market arbitrage incentives and decentralized oracle voting, the Terra protocol creates stablecoins that consistently track the price of any fiat currency. To learn more about how the protocol works, visit the [Terra protocol concepts page](/Concepts/Protocol.md).
 
 ## Tobin tax
 
