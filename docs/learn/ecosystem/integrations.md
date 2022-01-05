@@ -3,46 +3,46 @@
 ## Applications
 
 ````{panels}
-:container: +full-width text-center
+:container: text-center
 :column: col-lg-5 px-2 py-2
 :card:
 
-![](../../assets/img/apps_mirror.png)
+[![Mirror](../../assets/img/apps_mirror.png)](https://mirror.finance/ "Mirror")
 ^^^
 **[Mirror](https://mirror.finance/)**
 
-A DeFi protocol that enables the creation of synthetic assets
+A DeFi protocol enabling the creation of synthetic assets
 ---
 
-![](../../assets/img/apps_anchor.png)
+[![Anchor](../../assets/img/apps_anchor.png)](https://anchor.money/ "Anchor")
 ^^^
 **[Anchor](https://anchor.money/)**
 
 A high-yield savings protocol
 ---
 
-![](../../assets/img/apps_chai.png)
+[![Chai](../../assets/img/apps_chai.png)](https://chai.finance "Chai")
 ^^^
 **[Chai](https://chai.finance)**
 
 A payments product used by 5% of the population in South Korea
 ---
 
-![](../../assets/img/apps_buzlink.png)
+[![BuzLink](../../assets/img/apps_buzlink.png)](https://buzlink.io/ "BuzLink")
 ^^^
 **[BuzLink](https://buzlink.io/)**
 
 A viral marketing product to scale social referrals
 ---
 
-![](../../assets/img/apps_memepay.png)
+[![MemePay](../../assets/img/apps_memepay.png)](https://www.meme.mn/ "MemePay")
 ^^^
 **[MemePay](https://www.meme.mn/)**
 
 A payments product used by 3% of the population in Mongolia
 ---
 
-![](../../assets/img/apps_paywithterra.png)
+[![PayWithTerra](../../assets/img/apps_paywithterra.png)](https://paywithterra.com/ "PayWithTerra")
 ^^^
 **[PayWithTerra](https://paywithterra.com/)**
 
@@ -53,100 +53,70 @@ An API gateway enabling merchants to accept Terra stablecoins
 ## Block explorers
 
 ````{panels}
-:container: +full-width text-center
+:container: text-center
 :column: col-lg-5 px-2 py-2
 :card:
 
-![](../../assets/img/expl_finder.png)
+[![Terra Finder](../../assets/img/expl_finder.png)](https://finder.terra.money/ "Terra Finder")
 ^^^
 **[Terra Finder](https://finder.terra.money/)**
 ---
 
-![](../../assets/img/expl_hubble.png)
+[![Figment Hubble](../../assets/img/expl_hubble.png)](https://hubble.figment.io/terra/chains/columbus-5 "Figment Hubble")
 ^^^
 **[Figment Hubble](https://hubble.figment.io/terra/chains/columbus-5)**
 ---
 
-![](../../assets/img/expl_stakeid.png)
+[![Stake.id](../../assets/img/expl_stakeid.png)](https://terra.stake.id/#/ "Stake.id")
 ^^^
 **[Stake.id](https://terra.stake.id/#/)**
----
 
 ````
 
 ## Exchanges
 
-Luna and Terra stablecoins are traded on the following exchanges:
+Terra stablecoins and Luna are traded on the following exchanges:
 
 ````{panels}
-:container: +full-width text-center
+:container: text-center
 :column: col-lg-5 px-2 py-2
 :card:
 
-![](../../assets/img/exg_binance.png)
-^^^
-**[Binance](https://www.binance.com/)**
+[![Binance](../../assets/img/exg_binance.png)](https://www.binance.com/ "Binance")
 ---
 
-![](../../assets/img/exg_huobi.png)
-^^^
-**[Huobi](https://www.huobi.com/)**
+[![Huobi](../../assets/img/exg_huobi.png)](https://www.huobi.com/ "Huobi")
 ---
 
-![](../../assets/img/exg_kucoin.png)
-^^^
-**[Kucoin](https://www.kucoin.com/)**
+[![Kucoin](../../assets/img/exg_kucoin.png)](https://www.kucoin.com/ "Kucoin")
 ---
 
-![](../../assets/img/exg_bithumb.png)
-^^^
-**[Bithumb](https://www.bithumb.com/)**
+[![Bithumb](../../assets/img/exg_bithumb.png)](https://www.bithumb.com/ "Bithumb")
 ---
 
-![](../../assets/img/exg_upbit.png)
-^^^
-**[Upbit](https://upbit.com/)**
+[![Upbit](../../assets/img/exg_upbit.png)](https://upbit.com/ "Upbit")
 ---
 
-![](../../assets/img/exg_bittrex.png)
-^^^
-**[Bittrex](https://global.bittrex.com/)**
+[![Bittrex](../../assets/img/exg_bittrex.png)](https://global.bittrex.com/ "Bittrex")
 ---
 
-![](../../assets/img/exg_coinone.png)
-^^^
-**[CoinOne](https://coinone.co.kr/)**
+[![CoinOne](../../assets/img/exg_coinone.png)](https://coinone.co.kr/ "CoinOne")
 ---
 
-![](../../assets/img/exg_coinone.png)
-^^^
-**[OKEx](https://www.okex.com/)**
+[![OKEx](../../assets/img/exg_okex.png)](https://www.okex.com/ "OKEx")
 ---
 
-![](../../assets/img/exg_okex.png)
-^^^
-**[OKEx](https://www.okex.com/)**
+[![Voyager](../../assets/img/exg_voyager.png)](https://www.investvoyager.com "Voyager")
 ---
 
-![](../../assets/img/exg_voyager.png)
-^^^
-**[Voyager](https://www.investvoyager.com)**
+[![CoinList](../../assets/img/exg_coinlist.png)](https://coinlist.co/anchor-protocolm "CoinList")
 ---
 
-![](../../assets/img/exg_coinlist.png)
-^^^
-**[CoinList](https://coinlist.co/anchor-protocol)**
+[![CoinEx](../../assets/img/exg_coinex.png)](https://coinex.com "CoinEx")
 ---
 
-![](../../assets/img/exg_coinex.png)
-^^^
-**[CoinEx](https://coinex.com)**
----
+[![Bitfinex](../../assets/img/exg_bitfinex.png)](https://www.bitfinex.com/ "Bitfinex")
 
-![](../../assets/img/exg_bitfinex.png)
-^^^
-**[Bitfinex](https://www.bitfinex.com/)**
----
 ````
 
 ## Wallets
@@ -157,8 +127,8 @@ Luna and Terra stablecoins are traded on the following exchanges:
     * [MacOS](https://github.com/terra-money/station/releases/download/v3.5.0/Terra.Station-1.1.0.dmg)
     * [Windows](https://github.com/terra-money/station/releases/download/v3.5.0/Terra.Station.Setup.1.1.0.exe)
     * Linux
-      * [deb](https://github.com/terra-money/station/releases/download/v3.5.0/station-electron_1.1.1_amd64.deb)
-      * [rpm](https://github.com/terra-money/station/releases/download/v3.5.0/station-electron-1.1.1.x86_64.rpm)
+      * [.deb](https://github.com/terra-money/station/releases/download/v3.5.0/station-electron_1.1.1_amd64.deb)
+      * [.rpm](https://github.com/terra-money/station/releases/download/v3.5.0/station-electron-1.1.1.x86_64.rpm)
   * Mobile
     * [iOS](https://apps.apple.com/app/id1548434735)
     * [Android](https://play.google.com/store/apps/details?id=money.terra.station)
