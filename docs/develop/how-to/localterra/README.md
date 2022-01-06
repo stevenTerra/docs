@@ -2,7 +2,6 @@
 
 ```{toctree}
 :hidden:
-README
 install-localterra
 configure
 integrations
